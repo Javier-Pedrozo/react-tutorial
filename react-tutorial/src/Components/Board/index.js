@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Square from "../Square change name";
+import Square from "../Square";
 import "./styles.css";
 
 function Board() {

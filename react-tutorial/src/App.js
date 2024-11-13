@@ -1,4 +1,4 @@
-import Board from "./Components change name/Board change name";
+import Board from "./components/Board";
 
 export default function App() {
   return <Board />;
